@@ -1,3 +1,10 @@
+/*write a program to display the following pattrn
+*
+***
+*****
+*******
+*********
+*/
 package shruti;
 
 public class Questiion_3 {
