@@ -1,3 +1,9 @@
+/* pint a pattrn
+*****
+*   *
+*   *
+*****
+*/
 package shruti;
 
 public class Question_6 {
