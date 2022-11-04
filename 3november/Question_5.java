@@ -1,3 +1,5 @@
+/*accept a age amd gender from user and display the rate of interest */
+
 package shruti;
 
 import java.util.Scanner;
