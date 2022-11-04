@@ -1,3 +1,9 @@
+/* print a pattrn
+1
+10\
+101
+1010
+10101*/
 package shruti;
 
 public class Question_2 {
