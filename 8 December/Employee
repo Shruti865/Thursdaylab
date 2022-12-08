@@ -1,5 +1,5 @@
-//Q1)WAP  to create a process which will store the employee details and calculate the employee gross salary and net salary.
-(Using Inheritance)
+/*1)WAP  to create a process which will store the employee details and calculate the employee gross salary and net salary.
+(Using Inheritance)*/
 package shruti;
 
 import java.util.Scanner;
