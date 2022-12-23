@@ -1,0 +1,29 @@
+package Shruti;
+
+public class Message extends Thread {
+String str; 
+
+ public static void main(String[] args) {
+	Message obj=new Message(" Hiii "); //message passing 
+	obj.start();
+
+}
+
+public Message(String str) { //parameterised string
+	this.str=str; 
+	
+}
+public void run() {
+	
+		try { // Exception statement written inside try block 
+			while(true) { //infinite loop 
+				System.out.println(str); 
+		}
+		}
+		catch(Exception ex) { // After exception come try block break and come to catch block
+			System.out.println(ex.getMessage()); 
+		}
+	
+}
+
+}
